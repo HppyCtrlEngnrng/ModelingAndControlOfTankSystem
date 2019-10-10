@@ -1,0 +1,10 @@
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\MissionDisk\bin\Release\MissionDisk.exe.config
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\MissionDisk\bin\Release\MissionDisk.exe
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\MissionDisk\bin\Release\MissionDisk.pdb
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\MissionDisk\obj\Release\MissionDisk.exe
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\MissionDisk\obj\Release\MissionDisk.pdb
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\VisualStudioProject\MissionDisk\bin\Release\MissionDisk.exe.config
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\VisualStudioProject\MissionDisk\bin\Release\MissionDisk.exe
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\VisualStudioProject\MissionDisk\bin\Release\MissionDisk.pdb
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\VisualStudioProject\MissionDisk\obj\Release\MissionDisk.exe
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\VisualStudioProject\MissionDisk\obj\Release\MissionDisk.pdb

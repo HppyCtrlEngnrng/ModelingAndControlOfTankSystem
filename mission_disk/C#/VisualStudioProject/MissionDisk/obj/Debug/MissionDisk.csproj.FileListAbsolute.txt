@@ -1,0 +1,12 @@
+C:\Users\awcm9\source\repos\MissionDisk\MissionDisk\bin\Debug\MissionDisk.exe.config
+C:\Users\awcm9\source\repos\MissionDisk\MissionDisk\bin\Debug\MissionDisk.exe
+C:\Users\awcm9\source\repos\MissionDisk\MissionDisk\bin\Debug\MissionDisk.pdb
+C:\Users\awcm9\source\repos\MissionDisk\MissionDisk\obj\Debug\MissionDisk.csprojAssemblyReference.cache
+C:\Users\awcm9\source\repos\MissionDisk\MissionDisk\obj\Debug\MissionDisk.exe
+C:\Users\awcm9\source\repos\MissionDisk\MissionDisk\obj\Debug\MissionDisk.pdb
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\VisualStudioProject\MissionDisk\bin\Debug\MissionDisk.exe.config
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\VisualStudioProject\MissionDisk\bin\Debug\MissionDisk.exe
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\VisualStudioProject\MissionDisk\bin\Debug\MissionDisk.pdb
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\VisualStudioProject\MissionDisk\obj\Debug\MissionDisk.csprojAssemblyReference.cache
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\VisualStudioProject\MissionDisk\obj\Debug\MissionDisk.exe
+C:\Users\awcm9\Desktop\Tenk\mission_disk\C#\VisualStudioProject\MissionDisk\obj\Debug\MissionDisk.pdb
